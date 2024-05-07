@@ -9,7 +9,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 ## 🚀 Getting Started
  
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
    git clone https://github.com/hiteshchoudhary/chai-aur-react.git
    ```
